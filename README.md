@@ -26,4 +26,4 @@ Presentamos la reproducción de un trabajo de investigación que lleva por títu
 
 El modelo ha sido construido con Pytorch y es de libre acceso para cualquier interesado en el siguiente link:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HiroForYou/Image-Synthesis-with-Transformers/blob/master/VQGAN+CLIP.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HiroForYou/Image-Synthesis-with-Transformers/blob/master/VQGAN+CLIP.ipynb)
