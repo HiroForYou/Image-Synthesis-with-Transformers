@@ -13,11 +13,11 @@
 [![pytorch](https://img.shields.io/badge/PyTorch-1.9-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
 
 ## 🆕 Actualización
-- 11/10/21: [PDF](Taming_Transformers_for_High_Resolution_ImageSynthesis.pdf) actualizado
+- 13/11/21: [PDF](Taming_Transformers_for_High_Resolution_ImageSynthesis-2.pdf) actualizado
 
  TODO:
 - ✔️ Entregable 1
-- ⬜️ Entregable 2
+- ✔️ Entregable 2
 - ⬜️ Entregable 3
 - ⬜️ Entregable 4
 
