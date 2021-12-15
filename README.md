@@ -18,8 +18,7 @@
  TODO:
 - ✔️ Entregable 1
 - ✔️ Entregable 2
-- ⬜️ Entregable 3
-- ⬜️ Entregable 4
+- ✔️ Entregable final
 
 ## ℹ️ Introducción
 Presentamos la reproducción de un trabajo de investigación que lleva por título `Taming Transformers for High-Resolution Image Synthesis`. La idea central del trabajo consiste en generar imágenes super-realistas a partir de un input de texto, para lo cual se hará uso de dos redes llamadas `VGGAN` y `CLIP`.
